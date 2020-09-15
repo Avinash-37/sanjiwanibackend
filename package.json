@@ -1,0 +1,26 @@
+{
+  "name": "sanjiwanibackend",
+  "version": "1.0.0",
+  "description": "This is Partner Mall App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js"
+  },
+  "author": "Avinash Meshram",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "collections": "^5.1.9",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "date-and-time": "^0.8.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-status-monitor": "^1.2.7",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
+    "node-dogstatsd": "0.0.7",
+    "springedge": "^1.0.5",
+    "winston": "^3.2.1"
+  }
+}
